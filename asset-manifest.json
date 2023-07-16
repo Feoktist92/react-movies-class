@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/feoktist92.github.io/react-movies/static/css/main.6e327ed4.css",
+    "main.js": "/feoktist92.github.io/react-movies/static/js/main.3759ed09.js",
+    "index.html": "/feoktist92.github.io/react-movies/index.html",
+    "main.6e327ed4.css.map": "/feoktist92.github.io/react-movies/static/css/main.6e327ed4.css.map",
+    "main.3759ed09.js.map": "/feoktist92.github.io/react-movies/static/js/main.3759ed09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e327ed4.css",
+    "static/js/main.3759ed09.js"
+  ]
+}
