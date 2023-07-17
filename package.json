@@ -2,7 +2,7 @@
   "name": "movies-project",
   "version": "0.1.0",
   "private": false,
-  "homepage": "Feoktist92.github.io/react-movies",
+  "homepage": "feoktist92.github.io/react-movies",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
