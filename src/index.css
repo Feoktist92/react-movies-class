@@ -36,3 +36,7 @@ nav {
 label:not(:last-child) {
   margin-right: 20px;
 }
+
+.page-footer {
+padding: 0;
+}
