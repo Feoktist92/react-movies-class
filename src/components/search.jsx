@@ -37,7 +37,7 @@ class Search extends React.Component {
                             onFocus={() => this.setState({ search: '' })}
                         />
                         <button
-                            className='btn search-btn'
+                            className='btn search-btn light-blue darken-1'
                             onClick={() =>
                                 this.props.searchMovies(
                                     this.state.search,
@@ -51,7 +51,7 @@ class Search extends React.Component {
                 </div>
                 <label>
                     <input
-                        className='with-gap'
+                        className='with-gap blue'
                         name='type'
                         type='radio'
                         data-type='all'

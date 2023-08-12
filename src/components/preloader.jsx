@@ -1,7 +1,9 @@
 function Preloader() {
-    return <div className="progress">
-    <div className="indeterminate"></div>
-</div>
+    return (
+        <div className='progress white'>
+            <div className='indeterminate light-blue darken-1'></div>
+        </div>
+    );
 }
 
-export {Preloader}
+export { Preloader };
